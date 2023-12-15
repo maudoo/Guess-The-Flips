@@ -25,7 +25,7 @@ class Main {
 
 
        while(!in.hasNextDouble() ){
-         System.out.println("you did not type an int");
+         System.out.println("you did not type a number");
          String garbage= in.next();
        }
        double yourGuess = in.nextDouble();
