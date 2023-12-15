@@ -29,5 +29,3 @@ This project simulates a coin toss game where the goal is to achieve a specific 
 
 This project combines game elements with statistical analysis, providing an engaging way to explore probability and random outcomes. By expanding its features and functionalities, it can further enhance its educational and entertainment value.
 
-## Team Members:
- Muhammad Ahmad Hasan, Abdul Mueed Mohammed, Maryam Beilani, Ding Quang.
